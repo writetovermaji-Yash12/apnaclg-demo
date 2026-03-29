@@ -1,2 +1,2 @@
 # apnaclg-demo
-This is my first github progect
+This is my first github project
